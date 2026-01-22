@@ -1,2 +1,2 @@
-# CPTS_223
+# mygitrepo
 Assignments for advanced data structures 
